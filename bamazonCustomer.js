@@ -8,7 +8,7 @@ var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "",
+  password: "Reload89!",
   database: "bamazon"
 });
 // startup initial listing of products and run inquirer prompt

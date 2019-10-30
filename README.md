@@ -36,3 +36,24 @@ Demostrates a rejected order where ordered quantity exceeded quantity on hand.
 Message indicates order rejected and provides the maximum available quantity that can be ordered.
 
 ![imagecapture](images/rejected_order.PNG)
+
+CHALLENGE #2  bamazonManagers.js
+
+A Managers javascript that allow Managers the following options
+
+View Product List
+View Low Inventory Level
+Update Inventory Quantity
+Add New Sale Product to Inventory
+
+Initial run of bamazonManagers.js
+
+![imagecapture](images/manager1_init.PNG)
+
+View Product List results
+
+![imagecapture](images/manager2_viewlist.PNG)
+
+View Low Inventory Level and Update Inventory Quantity
+
+![imagecapture](images/manager3.addproduct.PNG)

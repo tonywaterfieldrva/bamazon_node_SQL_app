@@ -28,7 +28,7 @@ Inital run of bamazonCustomer.js and details of first item ordered
 
 ![imagecapture](images/successful_order1.PNG)
 
-Bottom half of above screenshot.  Item 5002 has inventory deducted by xx from xxx to xx.
+Bottom half of above screenshot.  Item 5001 has inventory deducted by 50 from 199 to 149.
 
 ![imagecapture](images/successful_order2.PNG)
 

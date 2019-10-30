@@ -28,7 +28,7 @@ Inital run of bamazonCustomer.js and details of first item ordered
 
 ![imagecapture](images/successful_order1.PNG)
 
-Bottom half of above screenshot.  Item 5002 has inventory deducted by xx from xxx to xx.
+Bottom half of above screenshot.  Item 5001 has inventory deducted by 50 from 199 to 149.
 
 ![imagecapture](images/successful_order2.PNG)
 
@@ -36,6 +36,7 @@ Demostrates a rejected order where ordered quantity exceeded quantity on hand.
 Message indicates order rejected and provides the maximum available quantity that can be ordered.
 
 ![imagecapture](images/rejected_order.PNG)
+<<<<<<< HEAD
 
 CHALLENGE #2  bamazonManagers.js
 
@@ -57,3 +58,5 @@ View Product List results
 View Low Inventory Level and Update Inventory Quantity
 
 ![imagecapture](images/manager3.addproduct.PNG)
+=======
+>>>>>>> 5b6d183f66fd0660daf65956fa99569f783828cb

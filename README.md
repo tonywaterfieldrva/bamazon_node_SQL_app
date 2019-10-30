@@ -24,4 +24,15 @@ The app will perform the following specifications:
     package.json contains initialization parameters 
 
 
-![imagecapture](images/Capture1.PNG)
+Inital run of bamazonCustomer.js and details of first item ordered
+
+![imagecapture](images/successful_order1.PNG)
+
+Bottom half of above screenshot.  Item 5002 has inventory deducted by xx from xxx to xx.
+
+![imagecapture](images/successful_order2.PNG)
+
+Demostrates a rejected order where ordered quantity exceeded quantity on hand.  
+Message indicates order rejected and provides the maximum available quantity that can be ordered.
+
+![imagecapture](images/rejected_order.PNG)

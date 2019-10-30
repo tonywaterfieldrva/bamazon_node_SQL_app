@@ -57,6 +57,8 @@ View Product List results
 
 View Low Inventory Level and Update Inventory Quantity
 
-![imagecapture](images/manager3.addproduct.PNG)
-=======
->>>>>>> 5b6d183f66fd0660daf65956fa99569f783828cb
+![imagecapture](images/manager2_viewlowinv.PNG)
+
+Add New Product to Inventory
+
+![imagecapture](images/manager3_addproduct.PNG)
